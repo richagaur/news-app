@@ -1,0 +1,10 @@
+newsapi-python
+azure.cosmos
+pyyaml
+openai
+transformers
+bs4
+torch 
+torchvision 
+torchaudio
+requests
