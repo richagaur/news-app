@@ -8,3 +8,9 @@ torch
 torchvision 
 torchaudio
 requests
+lxml
+html5lib
+newspaper3k
+lxml_html_clean
+requests-html
+gradio
